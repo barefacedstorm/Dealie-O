@@ -28,8 +28,8 @@ pip install requests beautifulsoup4 tkinter pandas pillow
 ```bash
 python app.py
 ```
-# Useage
-Usage 🚀
+
+# Usage 🚀
 Enter Competitor URL
 Interface Preview
 
