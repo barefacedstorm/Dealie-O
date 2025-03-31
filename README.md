@@ -18,7 +18,7 @@ Dealie-O is an intelligent web scraping application designed specifically for re
 ## Installation 💻
 1. **Requirements**
    - Python 3.6+
-   - Modern web browser
+   - CSV reader for exported files
 
 2. **Install dependencies**
 ```bash
@@ -33,15 +33,15 @@ python app.py
 Enter Competitor URL
 Interface Preview
 
-Click Search
+Click Search  
 The application will:
 
-Scrape the target website and its subpages
-Identify money amounts ($5.99) and discounts (20% Off)
-Filter out low-quality results
-Display organized results in real-time
-Export Data
-Save results to CSV for Excel/PowerBI analysis
+- Scrape the target website and its subpages
+- Identify money amounts ($5.99) and discounts (20% Off)
+- Filter out low-quality results
+- Display organized results in real-time
+- Export Data
+- Save results to CSV for Excel/PowerBI analysis
 
 # Ethical Considerations ⚖️
 - Respect robots.txt files
